@@ -47,7 +47,7 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-First thing first. Let's look at how the data set look like. Here is an exploratory visualization of the data set. And the observation is that input images has many issues such as viewpoint variations, lighting conditions (saturations, low-contrast), motion-blur, occlusions, sun glare, physical damage, colors fading, graffiti, stickers and low resolution.
+First, let's look at how the data set look like. Here is an exploratory visualization of the data set. And the observation is that input images has many issues such as viewpoint variations, lighting conditions (saturations, low-contrast), motion-blur, occlusions, sun glare, physical damage, colors fading, graffiti, stickers and low resolution.
 Above all, different lighting conditions seem to be the biggest issue. Some samples are so dark that anyone can hardly recognize. This variation may also be a problem for machines to learn. So, i'm going to deal with this issue later at the pre-processing section.
 
 ![alt text][image1]
@@ -132,8 +132,8 @@ I set the learing rate low enough(0.0005) and epochs high enough(100). And now t
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+![alt text][image6] ![alt text][image7] ![alt text][image8] 
+![alt text][image9] ![alt text][image10]
 
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
@@ -161,8 +161,3 @@ For all 5 images, the highest scoreo of each label has a very large margin over 
 | 1.					| Stop											|
 | 1.					| Roundabout mandatory				 			|
 | 1.					| Children crossing								|
-
-
-
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-#### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
