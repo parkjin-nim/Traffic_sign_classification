@@ -20,11 +20,11 @@
 [image3]: ./writeup_imgs/equal_hist.png "Histogram equalization"
 [image4]: ./writeup_imgs/image_generate.png "Generated images"
 [image5]: ./writeup_imgs/image_normalize.png "Normalized distribution"
-[image6]: ./five_test_signs/30kph.jpg "Speed limit (30km/h)"
-[image7]: ./five_test_signs/keep-right.jpg "Keep right"
-[image8]: ./five_test_signs/stop.jpg "Stop"
-[image9]: ./five_test_signs/roundabout.jpg "Roundabout mandatory"
-[image10]: ./five_test_signs/children-crossing.jpg "Children crossing"
+[image6]: ./five_test_signs/30kph.jpeg "Speed limit (30km/h)"
+[image7]: ./five_test_signs/keep-right.jpeg "Keep right"
+[image8]: ./five_test_signs/stop.jpeg "Stop"
+[image9]: ./five_test_signs/roundabout.jpeg "Roundabout mandatory"
+[image10]: ./five_test_signs/children-crossing.jpeg "Children crossing"
 
 
 ## Rubric Points
